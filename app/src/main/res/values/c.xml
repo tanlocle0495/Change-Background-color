@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary1">#009688</color>
+    <color name="primary_dark1">#00796B</color>
+    <color name="primary_light1">#B2DFDB</color>
+    <color name="accent1">#FF9800</color>
+    <color name="primary_text1">#212121</color>
+    <color name="secondary_text1">#727272</color>
+    <color name="icons1">#FFFFFF</color>
+    <color name="divider1">#B6B6B6</color>
+
+
+    <color name="primary2">#FFC107</color>
+    <color name="primary_dark2">#FFA000</color>
+    <color name="primary_light2">#FFECB3</color>
+    <color name="accent2">#607D8B</color>
+    <color name="primary_text2">#212121</color>
+    <color name="secondary_text2">#727272</color>
+    <color name="icons2">#212121</color>
+    <color name="divider2">#B6B6B6</color>
+
+    <color name="primary3">#3F51B5</color>
+    <color name="primary_dark3">#303F9F</color>
+    <color name="primary_light3">#C5CAE9</color>
+    <color name="accent3">#FF4081</color>
+    <color name="primary_text3">#212121</color>
+    <color name="secondary_text3">#727272</color>
+    <color name="icons3">#FFFFFF</color>
+    <color name="divider3">#B6B6B6</color>
+
+
+    <color name="primary4">#4CAF50</color>
+    <color name="primary_dark4">#388E3C</color>
+    <color name="primary_light4">#C8E6C9</color>
+    <color name="accent4">#448AFF</color>
+    <color name="primary_text4">#212121</color>
+    <color name="secondary_text4">#727272</color>
+    <color name="icons4">#FFFFFF</color>
+    <color name="divider4">#B6B6B6</color>
+
+</resources>

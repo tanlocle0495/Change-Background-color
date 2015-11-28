@@ -1,0 +1,259 @@
+
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primary1</item>
+        <item name="colorPrimaryDark">@color/primary_dark1</item>
+        <item name="colorAccent">@color/accent1</item>
+        <item name="colorControlHighlight">@color/md_red_500_25</item>​
+        <item name="colorControlNormal">@color/md_black_1000_50</item>
+        <item name="colorSwitchThumbNormal">@color/md_grey_200</item>
+        <item name="android:colorForeground">@color/md_black_1000_75</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="actionModeBackground">@color/primary1</item>​
+
+        <!-- Navigation Drawer Arrow Style. -->
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+
+        <!-- Overflow Button Style. -->
+        <item name="actionOverflowButtonStyle">@style/OverflowStyle</item>
+    </style>
+
+    <style name="AppTheme2" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primary_dark2</item>
+        <item name="colorPrimaryDark">@color/primary_dark2</item>
+        <item name="colorAccent">@color/accent2</item>
+        <item name="colorControlHighlight">@color/md_red_500_25</item>​
+        <item name="colorControlNormal">@color/md_black_1000_50</item>
+        <item name="colorSwitchThumbNormal">@color/md_grey_200</item>
+        <item name="android:colorForeground">@color/md_black_1000_75</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="actionModeBackground">@color/primary2</item>​
+
+        <!-- Navigation Drawer Arrow Style. -->
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+
+        <!-- Overflow Button Style. -->
+        <item name="actionOverflowButtonStyle">@style/OverflowStyle</item>
+    </style>
+    <style name="AppTheme3" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primary3</item>
+        <item name="colorPrimaryDark">@color/primary_dark3</item>
+        <item name="colorAccent">@color/accent3</item>
+        <item name="colorControlHighlight">@color/md_red_500_25</item>​
+        <item name="colorControlNormal">@color/md_black_1000_50</item>
+        <item name="colorSwitchThumbNormal">@color/md_grey_200</item>
+        <item name="android:colorForeground">@color/md_black_1000_75</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="actionModeBackground">@color/primary3</item>​
+
+        <!-- Navigation Drawer Arrow Style. -->
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+
+        <!-- Overflow Button Style. -->
+        <item name="actionOverflowButtonStyle">@style/OverflowStyle</item>
+    </style>
+
+
+
+    <style name="AppTheme4" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primary4</item>
+        <item name="colorPrimaryDark">@color/primary_dark4</item>
+        <item name="colorAccent">@color/accent4</item>
+        <item name="colorControlHighlight">@color/md_red_500_25</item>​
+        <item name="colorControlNormal">@color/md_black_1000_50</item>
+        <item name="colorSwitchThumbNormal">@color/md_grey_200</item>
+        <item name="android:colorForeground">@color/md_black_1000_75</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="actionModeBackground">@color/primary4</item>​
+
+        <!-- Navigation Drawer Arrow Style. -->
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+
+        <!-- Overflow Button Style. -->
+        <item name="actionOverflowButtonStyle">@style/OverflowStyle</item>
+    </style>
+
+    <!--<style name="AppTheme2" parent="Theme.AppCompat.NoActionBar">-->
+        <!--&lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+        <!--<item name="colorPrimary">@color/md_blue_500</item>-->
+        <!--<item name="colorPrimaryDark">@color/md_blue_700</item>-->
+        <!--<item name="colorAccent">@color/md_green_A700</item>-->
+        <!--<item name="colorControlHighlight">@color/md_blue_500_25</item>​-->
+        <!--<item name="colorControlNormal">@color/md_black_1000_50</item>-->
+        <!--<item name="colorSwitchThumbNormal">@color/md_grey_200</item>-->
+        <!--<item name="android:colorForeground">@color/md_black_1000_75</item>-->
+        <!--<item name="windowActionModeOverlay">true</item>-->
+        <!--<item name="actionModeBackground">@color/md_blue_500</item>-->
+
+        <!--&lt;!&ndash; Navigation Drawer Arrow Style. &ndash;&gt;-->
+        <!--<item name="drawerArrowStyle">@style/DrawerArrowStyle</item>-->
+
+        <!--&lt;!&ndash; Overflow Button Style. &ndash;&gt;-->
+        <!--<item name="actionOverflowButtonStyle">@style/OverflowStyle</item>-->
+    <!--</style>-->
+
+    <!--<style name="AppTheme3" parent="Theme.AppCompat.NoActionBar">-->
+        <!--&lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+        <!--<item name="colorPrimary">@color/md_green_500</item>-->
+        <!--<item name="colorPrimaryDark">@color/md_green_700</item>-->
+        <!--<item name="colorAccent">@color/md_blue_A200</item>-->
+        <!--<item name="colorControlHighlight">@color/md_green_500_25</item>​-->
+        <!--<item name="colorControlNormal">@color/md_black_1000_50</item>-->
+        <!--<item name="colorSwitchThumbNormal">@color/md_grey_200</item>-->
+        <!--<item name="android:colorForeground">@color/md_black_1000_75</item>-->
+        <!--<item name="windowActionModeOverlay">true</item>-->
+        <!--<item name="actionModeBackground">@color/md_green_500</item>-->
+
+        <!--&lt;!&ndash; Navigation Drawer Arrow Style. &ndash;&gt;-->
+        <!--<item name="drawerArrowStyle">@style/DrawerArrowStyle</item>-->
+
+        <!--&lt;!&ndash; Overflow Button Style. &ndash;&gt;-->
+        <!--<item name="android:actionOverflowButtonStyle">@style/OverflowStyle</item>-->
+    <!--</style>-->
+
+    <!--<style name="AppTheme4" parent="Theme.AppCompat.NoActionBar">-->
+        <!--&lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+        <!--<item name="colorPrimary">@color/md_orange_500</item>-->
+        <!--<item name="colorPrimaryDark">@color/md_orange_700</item>-->
+        <!--<item name="colorAccent">@color/md_red_A200</item>-->
+        <!--<item name="colorControlHighlight">@color/md_orange_500_25</item>​-->
+        <!--<item name="colorControlNormal">@color/md_black_1000_50</item>-->
+        <!--<item name="colorSwitchThumbNormal">@color/md_grey_200</item>-->
+        <!--<item name="android:colorForeground">@color/md_black_1000_75</item>-->
+        <!--<item name="windowActionModeOverlay">true</item>-->
+        <!--<item name="actionModeBackground">@color/md_orange_500</item>-->
+
+        <!--&lt;!&ndash; Navigation Drawer Arrow Style. &ndash;&gt;-->
+        <!--<item name="drawerArrowStyle">@style/DrawerArrowStyle</item>-->
+
+        <!--&lt;!&ndash; Overflow Button Style. &ndash;&gt;-->
+        <!--<item name="actionOverflowButtonStyle">@style/OverflowStyle</item>-->
+    <!--</style>-->
+
+    <!--<style name="AppTheme5" parent="Theme.AppCompat.NoActionBar">-->
+        <!--&lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+        <!--<item name="colorPrimary">@color/md_pink_500</item>-->
+        <!--<item name="colorPrimaryDark">@color/md_pink_700</item>-->
+        <!--<item name="colorAccent">@color/md_indigo_A200</item>-->
+        <!--<item name="colorControlHighlight">@color/md_pink_500_25</item>​-->
+        <!--<item name="colorControlNormal">@color/md_black_1000_50</item>-->
+        <!--<item name="colorSwitchThumbNormal">@color/md_grey_200</item>-->
+        <!--<item name="android:colorForeground">@color/md_black_1000_75</item>-->
+        <!--<item name="windowActionModeOverlay">true</item>-->
+        <!--<item name="actionModeBackground">@color/md_pink_500</item>-->
+
+        <!--&lt;!&ndash; Navigation Drawer Arrow Style. &ndash;&gt;-->
+        <!--<item name="drawerArrowStyle">@style/DrawerArrowStyle</item>-->
+
+        <!--&lt;!&ndash; Overflow Button Style. &ndash;&gt;-->
+        <!--<item name="android:actionOverflowButtonStyle">@style/OverflowStyle</item>-->
+    <!--</style>-->
+
+    <!--<style name="AppTheme6" parent="Theme.AppCompat.NoActionBar">-->
+        <!--&lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+        <!--<item name="colorPrimary">@color/md_indigo_500</item>-->
+        <!--<item name="colorPrimaryDark">@color/md_indigo_700</item>-->
+        <!--<item name="colorAccent">@color/md_pink_A200</item>-->
+        <!--<item name="colorControlHighlight">@color/md_indigo_500_25</item>​-->
+        <!--<item name="colorControlNormal">@color/md_black_1000_50</item>-->
+        <!--<item name="colorSwitchThumbNormal">@color/md_grey_200</item>-->
+        <!--<item name="android:colorForeground">@color/md_black_1000_75</item>-->
+        <!--<item name="windowActionModeOverlay">true</item>-->
+        <!--<item name="actionModeBackground">@color/md_indigo_500</item>-->
+
+        <!--&lt;!&ndash; Navigation Drawer Arrow Style. &ndash;&gt;-->
+        <!--<item name="drawerArrowStyle">@style/DrawerArrowStyle</item>-->
+
+        <!--&lt;!&ndash; Overflow Button Style. &ndash;&gt;-->
+        <!--<item name="actionOverflowButtonStyle">@style/OverflowStyle</item>-->
+    <!--</style>-->
+
+    <!--<style name="AppTheme7" parent="Theme.AppCompat.NoActionBar">-->
+        <!--&lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+        <!--<item name="colorPrimary">@color/md_brown_500</item>-->
+        <!--<item name="colorPrimaryDark">@color/md_brown_700</item>-->
+        <!--<item name="colorAccent">@color/md_amber_700</item>-->
+        <!--<item name="colorControlHighlight">@color/md_brown_500_25</item>​-->
+        <!--<item name="colorControlNormal">@color/md_black_1000_50</item>-->
+        <!--<item name="colorSwitchThumbNormal">@color/md_grey_200</item>-->
+        <!--<item name="android:colorForeground">@color/md_black_1000_75</item>-->
+        <!--<item name="windowActionModeOverlay">true</item>-->
+        <!--<item name="actionModeBackground">@color/md_brown_500</item>-->
+
+        <!--&lt;!&ndash; Navigation Drawer Arrow Style. &ndash;&gt;-->
+        <!--<item name="drawerArrowStyle">@style/DrawerArrowStyle</item>-->
+
+        <!--&lt;!&ndash; Overflow Button Style. &ndash;&gt;-->
+        <!--<item name="actionOverflowButtonStyle">@style/OverflowStyle</item>-->
+    <!--</style>-->
+
+    <!--<style name="AppTheme8" parent="Theme.AppCompat.NoActionBar">-->
+        <!--&lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+        <!--<item name="colorPrimary">@color/md_blue_grey_500</item>-->
+        <!--<item name="colorPrimaryDark">@color/md_blue_grey_700</item>-->
+        <!--<item name="colorAccent">@color/md_light_blue_A400</item>-->
+        <!--<item name="colorControlHighlight">@color/md_blue_grey_500_25</item>​-->
+        <!--<item name="colorControlNormal">@color/md_black_1000_50</item>-->
+        <!--<item name="colorSwitchThumbNormal">@color/md_grey_200</item>-->
+        <!--<item name="android:colorForeground">@color/md_black_1000_75</item>-->
+        <!--<item name="windowActionModeOverlay">true</item>-->
+        <!--<item name="actionModeBackground">@color/md_blue_grey_500</item>-->
+
+        <!--&lt;!&ndash; Navigation Drawer Arrow Style. &ndash;&gt;-->
+        <!--<item name="drawerArrowStyle">@style/DrawerArrowStyle</item>-->
+
+        <!--&lt;!&ndash; Overflow Button Style. &ndash;&gt;-->
+        <!--<item name="actionOverflowButtonStyle">@style/OverflowStyle</item>-->
+    <!--</style>-->
+
+    <!--<style name="AppTheme9" parent="Theme.AppCompat.NoActionBar">-->
+        <!--&lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+        <!--<item name="colorPrimary">@color/md_falcon_500</item>-->
+        <!--<item name="colorPrimaryDark">@color/md_falcon_700</item>-->
+        <!--<item name="colorAccent">@color/md_falcon_A400</item>-->
+        <!--<item name="colorControlHighlight">@color/md_falcon_500_25</item>​​-->
+        <!--<item name="colorControlNormal">@color/md_black_1000_50</item>-->
+        <!--<item name="colorSwitchThumbNormal">@color/md_grey_200</item>-->
+        <!--<item name="android:colorForeground">@color/md_black_1000_75</item>-->
+        <!--<item name="windowActionModeOverlay">true</item>-->
+        <!--<item name="actionModeBackground">@color/md_falcon_500</item>-->
+
+        <!--&lt;!&ndash; Navigation Drawer Arrow Style. &ndash;&gt;-->
+        <!--<item name="drawerArrowStyle">@style/DrawerArrowStyle</item>-->
+
+        <!--&lt;!&ndash; Overflow Button Style. &ndash;&gt;-->
+        <!--<item name="actionOverflowButtonStyle">@style/OverflowStyle</item>-->
+    <!--</style>-->
+
+    <!--<style name="AppTheme10" parent="Theme.AppCompat.NoActionBar">-->
+        <!--&lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+        <!--<item name="colorPrimary">@color/md_light_blue_500</item>-->
+        <!--<item name="colorPrimaryDark">@color/md_light_blue_700</item>-->
+        <!--<item name="colorAccent">@color/md_yellow_A700</item>-->
+        <!--<item name="colorControlHighlight">@color/md_light_blue_500_25</item>​-->
+        <!--<item name="colorControlNormal">@color/md_black_1000_50</item>-->
+        <!--<item name="colorSwitchThumbNormal">@color/md_grey_200</item>-->
+        <!--<item name="android:colorForeground">@color/md_black_1000_75</item>-->
+        <!--<item name="windowActionModeOverlay">true</item>-->
+        <!--<item name="actionModeBackground">@color/md_light_blue_500</item>-->
+
+        <!--&lt;!&ndash; Navigation Drawer Arrow Style. &ndash;&gt;-->
+        <!--<item name="drawerArrowStyle">@style/DrawerArrowStyle</item>-->
+
+        <!--&lt;!&ndash; Overflow Button Style. &ndash;&gt;-->
+        <!--<item name="actionOverflowButtonStyle">@style/OverflowStyle</item>-->
+    <!--</style>-->
+
+    <style name="DrawerArrowStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="spinBars">true</item>
+        <item name="color">@android:color/white</item>
+    </style>
+
+    <style name="OverflowStyle" parent="Widget.AppCompat.ActionButton.Overflow">
+        <item name="android:src">@drawable/ic_format_color_fill_white_36dp</item>
+    </style>
+</resources>
